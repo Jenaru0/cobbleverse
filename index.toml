@@ -1242,6 +1242,10 @@ hash = "2f48f2b454092408f2653cdd59b6b924788323095880721259c1cabd53c83eac"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.jar"
+hash = "6055d9bd5a37ceaa8df80e9cb9f79a406dfcbca6f059e8a36785f2a7bf463b0e"
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "7ad308ea28f2a522bf5e76cb7796561f971af5d95b6b81e8c75e07e0937bc6c8"
 metafile = true
@@ -1250,10 +1254,6 @@ metafile = true
 file = "mods/not-enough-crashes.pw.toml"
 hash = "a8df8d886bed5a744ea2a8152abe3804226a918bc8c35d586a4732c5502b1f4e"
 metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar"
-hash = "6055d9bd5a37ceaa8df80e9cb9f79a406dfcbca6f059e8a36785f2a7bf463b0e"
 
 [[files]]
 file = "mods/only-bottle-caps.pw.toml"
