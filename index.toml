@@ -1071,6 +1071,11 @@ hash = "86145e8bd8bb79b257ae2711435a38ef7112dd6ed45e1dc12130581e6bd0b988"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "79b607e23d078fc52a2a38977d5b0c244fb4415fac0d454c122c04fe77eec3b5"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "becea914ca82ef6dfb7c5927e349e5525722e482dab84ac66b44ea3060b03d6a"
 metafile = true
