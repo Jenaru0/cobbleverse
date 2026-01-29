@@ -825,6 +825,18 @@ file = "mods/Cobblemon-UI-Tweaks-1.0.7d.jar"
 hash = "b4b21dee8fb1d9bb979879e96bb62340be207d97aab7bbecd78b454266ad7886"
 
 [[files]]
+file = "mods/CobbleverseBadges-1.3.jar"
+hash = "d215d075d4ae80a4ed5e20cb5caf442bb3f3607d2a41dc134ebad035f6a8da77"
+
+[[files]]
+file = "mods/Only Bottle Caps-1.3.0.jar"
+hash = "f18d5ddfaa0a77d0ef68b9db470a41095522878e25b1cc2a5282e747c784f09d"
+
+[[files]]
+file = "mods/SafePastures-1.1.1+1.21.1.jar"
+hash = "41d1c286db3e02a3249346a5efda6f95799ab895aa40c03a87cdcd81a95e4b45"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "eb73a5526f3ae19290df9b2c17f5a652479ae3ee2a2d4f3036667e97ae186fef"
 metafile = true
@@ -904,9 +916,8 @@ hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
-file = "mods/cobblecuisine.pw.toml"
-hash = "a57fdae782dfeb84942cc6bab0273474715fbfcbd8e16700e54ae544056e66a2"
-metafile = true
+file = "mods/cobblecuisine-2.0.1-1.7.rc1.jar"
+hash = "081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9"
 
 [[files]]
 file = "mods/cobbledollars.pw.toml"
@@ -947,18 +958,8 @@ hash = "c4d69d415b3d5ddeb321cf6b2c214d4885c18fdeeb98c0283262e9f60bc816db"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-playerxp.pw.toml"
-hash = "4dfb067902045ffbb0c3cec64592ac1788fc0ac4c3e5fbf0f8a5a1fba7bce90c"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "b0d72ec5f5bcc85a200c6a8185ac3dca719be8593f2c5e4e84d9b0750feeda77"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-safepastures.pw.toml"
-hash = "7f991597fc43151c37fd4e325bbc9c06f9679d6b41a596820fedffa8f9c8d60b"
 metafile = true
 
 [[files]]
@@ -970,6 +971,10 @@ metafile = true
 file = "mods/cobblemon.pw.toml"
 hash = "b50f866fe959814df18f82318a524d9c4fd3e08933cd091e5f2084333772f8d5"
 metafile = true
+
+[[files]]
+file = "mods/cobblenav-fabric-2.2.5.jar"
+hash = "3fd669b03f152ab9f5ed3da71b25ea6b95944876367e6e289948bf8a1f159333"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
@@ -1025,6 +1030,10 @@ metafile = true
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "f13154c42b7c33d21560292453a5d30d701ae5c73d271b0af842d4c8cfe0b113"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1.9.4-mc1.21.1.jar"
+hash = "823ff81af0a07826b3f44320a0c51a816970053911e8edb4e68824245d87fceb"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -1219,19 +1228,12 @@ hash = "2f48f2b454092408f2653cdd59b6b924788323095880721259c1cabd53c83eac"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "ae0783f3455e72023fac34f0ebe965ad1b3dbd813f155e2f7fb97e2da029e103"
-metafile = true
+file = "mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar"
+hash = "6055d9bd5a37ceaa8df80e9cb9f79a406dfcbca6f059e8a36785f2a7bf463b0e"
 
 [[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "a8df8d886bed5a744ea2a8152abe3804226a918bc8c35d586a4732c5502b1f4e"
-metafile = true
-
-[[files]]
-file = "mods/only-bottle-caps.pw.toml"
-hash = "09f3b0933f52aafb3d39dc1be76a5be9701af1c5101dbb29892097e8cabc3579"
-metafile = true
+file = "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar"
+hash = "1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74"
 
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
@@ -1271,6 +1273,10 @@ hash = "51f6924d529a3cb663524ad8958ae7eb7279ae329bfcc12a932a32b2771da29c"
 file = "mods/ping-wheel.pw.toml"
 hash = "71b10ddf168c15cba93baaa9ba1f097bdea7e0ca798d6616db16f1da7048631f"
 metafile = true
+
+[[files]]
+file = "mods/playerxp-fabric-1.0.3+1.21.1.jar"
+hash = "d67476f77a97ac34798898a3d63819dc63bcdd94f1c8d2cc0f31545ff25801dd"
 
 [[files]]
 file = "mods/pokeblocks.pw.toml"
