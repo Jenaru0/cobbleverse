@@ -11,8 +11,9 @@ servers.dat
 usercache.json
 usernamecache.json
 
-# Carpetas de mods que no deben subirse
-mods/
+# Ignorar JARs de mods pero NO los archivos .pw.toml
+mods/*.jar
+mods/*.disabled
 
 # Logs
 logs/

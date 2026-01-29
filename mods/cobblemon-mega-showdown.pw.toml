@@ -1,0 +1,13 @@
+name = "Cobblemon: Mega Showdown"
+filename = "mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c826e5f2781d3a1d9458b30f9dcca2d710024bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7299860
+project-id = 1189523

@@ -1,0 +1,13 @@
+name = "cobbreeding-curseforgeport"
+filename = "Cobbreeding-fabric-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97477d7ff6fe48489e3d0b2b8775a25940f30c6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7308288
+project-id = 1400477

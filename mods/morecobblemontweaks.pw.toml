@@ -1,0 +1,13 @@
+name = "MoreCobblemonTweaks"
+filename = "MoreCobblemonTweaks-fabric-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0d37ac965eac511853a6125d9ef6e128087d5ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7321516
+project-id = 1082538
