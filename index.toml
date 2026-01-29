@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "2831b5ecdca521aeba67fc5bbda93b3bf1d1f300c0f42a9d31154bfd0df9d4cd"
+
+[[files]]
 file = "cobblemon/riding_perspectives.json"
 hash = "de24175c505d7f89fddf057dd88c65161ded71014ef318563e307b51d11748fd"
 
@@ -30,11 +34,11 @@ hash = "49bc89a13e4c8b2e8485ea5c8dd4b66bd5f6e497e24cd4606b53c606623dfe79"
 
 [[files]]
 file = "config/advancementdisable.toml"
-hash = "5f164f8ff9dd3e1815326fe861d2e1faf59642a5b2f036b3dee255f09e783d86"
+hash = "bcb0267bebf5612a483e6ab47d9df30a1063134af11d4d6a6edea475a0b9d7a9"
 
 [[files]]
 file = "config/advancementplaques.toml"
-hash = "c758366b2b0bcf6d5d175974eaf2df078778ccdbfedb628d4c87eca218788ec7"
+hash = "bcf44c7c44c84d53b7891120e187c9f291933821200eb2717fe65cdd97a08d7d"
 
 [[files]]
 file = "config/beautify.json"
@@ -50,7 +54,7 @@ hash = "7919d67c1cbb1f36ab67db0d26a1f9bfc35cde25645e3ae21510d945d5bc864a"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "14e36ff52940039a294b38d856f765d97e0d38a422d13d825f5a45727bc2189d"
+hash = "635077b6914f166948423138fdc2227e25b85114eda0745df5dc7a1c4dbc4c70"
 
 [[files]]
 file = "config/brb.toml"
@@ -114,11 +118,11 @@ hash = "03223976e88aa10e3e6a114d52a7c629a9690228384508b462a5752e3245cb72"
 
 [[files]]
 file = "config/comforts-common.toml"
-hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
+hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "089a30a8742040ca3a3a6e886f0863ef8357690e275236f020f3549fdf963881"
+hash = "66658326864d8a903ee148fddceb4e0f2ed58329be5a63676b36334b532c36cb"
 
 [[files]]
 file = "config/continuity.json"
@@ -154,11 +158,11 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "110a7578e1d0889cafe89f38a2677edb2dca689a162a1284eb21eb82fafa6419"
+hash = "6f2215dfd0e3c8a469690ded9148a305a45a81ea9602c03300a0e78ab4985552"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ec7567bd4d4ea07ee36f1b2495b006529f0c3246ff684296a7d3ca78e04d3a05"
+hash = "e642b16801ad72c2ffbba530b459da1d9ebfabcceda9a113780cf875d6437ccc"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -170,7 +174,7 @@ hash = "4af9d550106fa186c88c65ca435efeb6b6f7a3f360cff63eba808ba027964ad6"
 
 [[files]]
 file = "config/elevatorid-server.toml"
-hash = "95b294c454ee5e7a2159bf09808e26cd2dbe35bb1fd6e6611d5d0e9d943df219"
+hash = "7ed8fffdecaec045f605a77a9694aa48ae0ff7b42812b8177a5af6e35679d723"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -194,7 +198,7 @@ hash = "d0363ec9b4dc1d57d57e36fc6a68c5a7be965d61e51108157b53ac2e5c503923"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8b19b9771ecb4cb790c24b5419e4bb0c8f0c55ae64f4c5cc0f227621abc534dd"
+hash = "2bc6d030215587a0dbd2689c23c9b2ea24fc2e73f3ccb46d1299671eea295131"
 
 [[files]]
 file = "config/fancymenu/assets/bg_test.png"
@@ -234,7 +238,7 @@ hash = "1408dccaaaac27395c49e220c690ee67bd493067c16fbbee44a1668d2af179eb"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "27422fbddb9a4436af370cba7645f4e32b7f9b9252581842b782d92a9309c93d"
+hash = "75e338512d6f79eb3297e12aa81dea8efdc2dd51d53e1a313b4abeb57b061a09"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -402,7 +406,7 @@ hash = "33dc6754230b09ea4148488d00cf5320b0ea39382bfa143b94064077bc606807"
 
 [[files]]
 file = "config/fancymenu/slideshows/pokedex/properties.txt"
-hash = "9db668249deb507978c7fd3309d68a76b06f785b8dd5610a8411d4380b13157d"
+hash = "cc98061bec52ee10d5cb8a46263cf772344b1ff8e3aa4475033b1b97f4c67ba8"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -418,7 +422,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/fightorflight.json5"
@@ -434,7 +438,7 @@ hash = "20cdbce203900bf01f5fb4e7127e056947bf5eb275df5be8d0fb92efd48c1b93"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
-hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
 
 [[files]]
 file = "config/forgivingvoid-common.toml"
@@ -442,7 +446,7 @@ hash = "7e4099bef2dea2d696974c93e7aeb5a82c9a06ee043ed057a20a83a8747736c7"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "d7a28e552872125a961f45631c32e3ae8f6dd63acde561083f15cc9270f7a78a"
+hash = "1ee2e811bf9832d074f50d2d5e6f9873acafc64a088e6da5bf0aa9e5f5b1b432"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -462,7 +466,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "7c664bf5f4ba366489c7a6573bfc1dea51f573816d411d98d901f29d61a3d705"
+hash = "e0e4615e2a6e8b80d2a8bc2bec5681854692e24843c8f86670a84a373de88561"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -550,11 +554,11 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/obc-common.toml"
-hash = "dfda6dcd22f9d02a86b2cd1c9ccbd5fc47d33b04d8a6c9c94fd4bb8e040a9b03"
+hash = "6d38a797b6055c4b811f8ca1a876b70d3ce71c57b406f399c5945ac19f495455"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "42824176b4db270e63dde66584b1c8fc8acf92b4f6e23357e8aa2b8efc126a82"
+hash = "0f85e316e60a2e10559794c6bf7ab6d9667174df08f6e4b1062f4d1ffdcf34bc"
 
 [[files]]
 file = "config/particlerain.json"
@@ -586,11 +590,11 @@ hash = "e3d9e9bd15cb0089559f803e4d5dffe3b9e1f2ab56b6a0ff6a66833e777dbbf9"
 
 [[files]]
 file = "config/rctmod-client.toml"
-hash = "d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de"
+hash = "2a1efa0a9ea23673047ceadc82b048c60e030b4385042c26eaa3df488178610d"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "56b620b7822da9280d9a8064aedfbfc0aed34310b3c422578e37daba88bc3561"
+hash = "e8f37c2fbd18a26f03daca57fae2fb7bbee13d92390fb8a29586d32d37cf3102"
 
 [[files]]
 file = "config/repurposed_structures.json"
@@ -622,11 +626,11 @@ hash = "fd69cec4724853887e77b4b1d43c7fbfc6f37d07bbd2e2edd5365f92204f3d08"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "51eab4455cdd471d5596274ab2b3a7ba41568564d9e7e9379e897c6f03e61819"
+hash = "3005be7d567d6a4f17839c66f37d1a70720813b73babf9d8ab103fc6fddb3fcd"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "a726b62dff488c31021a758357780cde82b25fd1d692bba82cc5d19e66878f46"
+hash = "f2ed6388c07d727de436377e3da9c733ffbc59f14664b12b377bbe1bd69a199a"
 
 [[files]]
 file = "config/safepastures/safepastures.json"
@@ -658,47 +662,47 @@ hash = "c8686b671d788850c085be156976a340cfb65cfe91450ba74041c0adea110551"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
-hash = "9b5ee63cbd89e3bd726f2da756a586faa8a120f3e11d4ab49c476583eef61593"
+hash = "0558192a2375667743fe0548e9e6f34f36d266a999389c8b5bb93cd8ca5b3740"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "a55f9d37e35ace0d0fb0070fb99ca4581f93206066355dc36b74e81e0072f685"
+hash = "6e9aff075eab9c22c26e47d2d65719657492df28d08b3055dd46f52e8564248c"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
-hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"
+hash = "20a722a82474b3491b31807e18d93f253c58e472c7c65c1913f921b78ee91063"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "9c4f2ec1b48bf307655150c3aa8ca804c4bd3294536ed588ba4b59f98e1804c2"
+hash = "a465ff53a96363da43d977da62085f2795afea9b8d55763e84a4275971ea6f74"
 
 [[files]]
 file = "config/sophisticatedstorage-client.toml"
-hash = "d49bbbb0c1424252493d611acaa27994337ec330bf571e35aa9ff17c1ebc73c5"
+hash = "88e979cb153b2cad690b508e0c0bdb635e5abb4b215f5f104c00c7f4a637b36f"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
-hash = "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
+hash = "598a20e3ee0ab0a5914e6cfe3f963bf5a58a29218b30ae3af4f91449b8e93181"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
-hash = "ada3a614de51ec31fc6c11fb4f28921ad0df1db572841fe7b44b86cf7c8ffbda"
+hash = "febe3c9f83dd28a1f370f95de4858ed621ac99ad2890a3a2de1048487d4f990e"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "273214a8ed3b42da98b0cf6abdad616dec72e00c9a4fe143ec50ee36176f9958"
+hash = "3f99e34acbcb1d8ba3b0af854b9a6f7af5f8ace70c037c3868ec4fb9b4f8b847"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "021664f07f4885e167b8ce3a88bc35a14a79d9135598424fd049efeebadc3481"
+hash = "5c1adda1355389ce247de8aeb4ccd7edf2894ec714e450562958ac94fd46301a"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -722,11 +726,11 @@ hash = "39b508ab2e4e5988b47d88869ecc349da01a95c86c5e71e5e14eddb4ba329f29"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "34f2ff5eb312e041dc43873276db698cef7b81422fc0be65e7306d797f4074c2"
+hash = "f070162b819bfd176650221fb44bf24d788e8f7e00dfa121b5fe79f67042e002"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -738,11 +742,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
 
 [[files]]
 file = "config/yacl.json5"
@@ -1441,216 +1445,12 @@ file = "mods/zz DO NOT ENABLE zz [Cobblemon UI Tweaks - Credits Only].jar.disabl
 hash = "ed107e2486b1e9c0f9fbb4f172f9213faf0b65dcd9320a856391f1d8917626d2"
 
 [[files]]
-file = "resourcepacks/ATMxMSD RP.zip"
-hash = "41a2ce18e1a62a57a231c9b4f9cbcedf3afb6ee176064fc5d3e7ecdf61af8daa"
-
-[[files]]
-file = "resourcepacks/COBBLEVERSE RCTmod RP.zip"
-hash = "2c7f6d705e133c3196b8d5050f6e2707954d83fb7b6e943b4aaee932cae418df"
-
-[[files]]
-file = "resourcepacks/COBBLEVERSE RP.zip"
-hash = "37157b8279e9fd42721ad09f45d14e2b34d956410032807a0cb13a9542ceaf77"
-
-[[files]]
-file = "resourcepacks/COBBLEVERSE Soundtrack.zip"
-hash = "4fa1a3abd5b43fbf9cec1c778a3821ed7c28e75c3c9c737361e76199fdc2c012"
-
-[[files]]
-file = "resourcepacks/Canon PC Wallpapers.zip"
-hash = "c20da2ec31a91c3a961ba0b6fd771a405b7197001af592d5955750568d017d2c"
-
-[[files]]
-file = "resourcepacks/CavsCobbleMons RP.zip"
-hash = "928769709051383c807a419f4070ed5769db98b9de91a7421ae366ea1bf457ae"
-
-[[files]]
-file = "resourcepacks/Classic Grass.zip"
-hash = "4386b800db3f7710c23f5ead9c911c9f265831a02e74c704f7cc29fcd9070880"
-
-[[files]]
-file = "resourcepacks/Cobblemon Interface Modded.zip"
-hash = "3175cde27f4528eb7c2dc6a53b9952d937e0d1ead2b2f0fdbf1809075e9eb7eb"
-
-[[files]]
-file = "resourcepacks/Cobblemon Interface Modded.zip.rpo"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "resourcepacks/Cobblemon Interface.zip"
-hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
-
-[[files]]
-file = "resourcepacks/Cobblemon Interface.zip.rpo"
-hash = "cd23a448bda028590c96b9b2b7ecfb4f0456d6aad02b934283ffe47d4d88046f"
-
-[[files]]
-file = "resourcepacks/Comforts Modernized.zip"
-hash = "b3050d84c0be41dae853e550c07acb1f768880c41472b44d701c03e9b1bc4734"
-
-[[files]]
-file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
-hash = "99d4938c00c0e650e75f3e953d0f0efbdb90153b1ed159f676dfcb935e1618b8"
-
-[[files]]
-file = "resourcepacks/EeveelutionsReimagined RP.zip"
-hash = "0280c5f64b617705ed4d49a915f1106babcd985932e70b5f0c988cc371da62bc"
-
-[[files]]
-file = "resourcepacks/Emissive Cobblemon Ores.zip"
-hash = "1dfdfb226712ef47e28917642711972837af5c5e706e7ca6be0c8298a5b0bcd4"
-
-[[files]]
-file = "resourcepacks/Fresh Animations.zip"
-hash = "999fbdfe9cddcbadeaaa02827f0583dc3d38d8f264146301cb88395d18df85a9"
-
-[[files]]
-file = "resourcepacks/Fresh Icons.zip"
-hash = "4df876dd775c214e66cb29d9706636025e6f808bff50431abf08cb815c2af255"
-
-[[files]]
-file = "resourcepacks/Fresh Moves.zip"
-hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
-
-[[files]]
-file = "resourcepacks/FullyHisuianStarters RP.zip"
-hash = "e1b031cc8d05305d0607919124b7a14fd244a98d8160c3eaa30b38bd817eec23"
-
-[[files]]
-file = "resourcepacks/GlitchDex RP.zip"
-hash = "45141851744fb63075f58bcfd8671e9f53d36bcc2c8300b56686b7e7cfd133cf"
-
-[[files]]
-file = "resourcepacks/HydroReanimodel RP.zip"
-hash = "3e2736c8f71acc5f7bbea733912814aea760b8601e0dcb5c8168c43871767ca8"
-
-[[files]]
-file = "resourcepacks/JigglyRadio.zip"
-hash = "b766be373fa546f0671e064263f78710943b2ec8a341fe1e2c41075d11b86700"
-
-[[files]]
-file = "resourcepacks/LackingMons RP.zip"
-hash = "6e7a9a07464b01c4f748e38dfe735e09ee4874cc82898e09af8b1d8397dac1a9"
-
-[[files]]
-file = "resourcepacks/Low Fire.zip"
-hash = "fd19a6e94de111070e92a908b4215b79fd73ba2003bb5f3f734ac944a5a4a9d9"
-
-[[files]]
-file = "resourcepacks/MelloMons RP.zip"
-hash = "e586ee25a3c029048ced4343f0b0f3e1854453bad58259bf50cbcb064f9f6ab6"
-
-[[files]]
-file = "resourcepacks/MissingMons RP.zip"
-hash = "f22618ff2cd75ed8474b9a66e0f330be5f4a9d3c6abf8a6f86ff0e82725610fe"
-
-[[files]]
-file = "resourcepacks/MundialMons RP.zip"
-hash = "7abedc89e45eaf73bddc8ce738500742325bfb6bf1defc6ed2d3c2868ab8f17a"
-
-[[files]]
-file = "resourcepacks/MysticMons RP.zip"
-hash = "7f252d781e4da48be900a5bc558ded0718e001ce22878394b65a07d5dd8519dd"
-
-[[files]]
-file = "resourcepacks/Navas-Z-A-Mega RP.zip"
-hash = "f2e37811da63802bf980a7bfd69ecd21fc05780c492b846f8544de4f1b608106"
-
-[[files]]
-file = "resourcepacks/OJsAnimations RP.zip"
-hash = "0772eab3fb332cb62b052a1f84451d562bde847ddd87a7a3ca874d2ef36a2512"
-
-[[files]]
-file = "resourcepacks/Original Pokemon Battle Music.zip"
-hash = "73dbf078974cd81e5356f98d0b57b5b88c1dfed9aebbbddbfbcf8a3bc3600bb8"
-
-[[files]]
-file = "resourcepacks/PlanetaCobblemon RP.zip"
-hash = "139d3060983eead8e91a166d97fcc690b39f8ae5480edc20282b401aeccd0f55"
-
-[[files]]
-file = "resourcepacks/PokeDiscs.zip"
-hash = "f90d7b3a1c5885a5c48aac3820d57033cd628e720bd9bc90481efe2ed01165d3"
-
-[[files]]
-file = "resourcepacks/PokeRods3D.zip"
-hash = "c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e"
-
-[[files]]
-file = "resourcepacks/Pokemans RP.zip"
-hash = "9ac5067e8acccba49feafd974795b92ed65eb4df899482ed1eea09afe935aef8"
-
-[[files]]
-file = "resourcepacks/SwirlixAndSlurpuff RP.zip"
-hash = "22762cb83a86b2ae7587f96f82abbe11630116bda745a91d6622f71bf749be60"
-
-[[files]]
-file = "resourcepacks/TDmon RP.zip"
-hash = "910e64ffb24126578d4a55ce5f015cc761912368f7c260b091ca4e07884a1e57"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip"
-hash = "00cbf68bae8405201db01d9cbf87707dc3e5ca6d8a92c6962a44b20f1324eec8"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip"
-hash = "3bd0353ee40b50d14b2f38e7adf295bff87e6e1becad958db61b650e6af15b36"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip"
-hash = "6972c626ecba38d45002a54d9e8f7e22984074a0b2baa824e7b4c18c11e5719c"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip"
-hash = "f7dc00ccc2015b70ec07d256f790c241f95b62072f672808a029417815b4aab9"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip"
-hash = "0a40b17b33994018e9b6da2fadd4030972397757d5f6fef971c5642a234b1a01"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip"
-hash = "5aedbb9148dd35363ba738ac137811466aaa1f0d5cabfbd9e0e333cf3cd2b91c"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip"
-hash = "3f4d898e7a117f761ffa268e9f9af4e8d0ea5340bf3cd58a11e2253538fa9cb0"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip"
-hash = "5fa1a0ed27f4a875ba85257af11e712384807c3f4950e97927f8cafacc6b8418"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip"
-hash = "9e3749f431fbffa6a0fc95d878a166aec15b9aa9066ce88de2419ec9c8232102"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [Navas Z-A Mega - Credits Only].zip"
-hash = "e68f9dbd8f39c608478fcfa928be91136b8ba890fd595d8a1af9a9c552bb1afd"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip"
-hash = "99150e132fc74d78d1e6f58f9593eb677933155e9b56230e7728fcb355d912b1"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip"
-hash = "af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip"
-hash = "826872b0b2aef5f6aa345a91dd6122ac6a438dae0e5cd8405ecec0eba3758e5c"
-
-[[files]]
-file = "resourcepacks/z DO NOT ENABLE z [Terralith - Credits Only].zip"
-hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
-
-[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8.txt"
-hash = "3a1a305f0162d1fe2eba872774b15c9b3361a1f42e3e66745de8a0da6275bfb0"
+hash = "5ac468b2fbef10c70a474501d6198cf5a17577aa0af8c365822f5cb86399d0b5"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/ComplementaryLicense.txt"
-hash = "510c239b69554715e808676a0913dc096686fe0ae1b2dff00316e99cc9bfc607"
+hash = "29ff88691ad4ab3501c7786f8fc41fd198a7576f30390eb78d7d2d6cedaebd75"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/Credits.txt"
@@ -1658,7 +1458,7 @@ hash = "ba03bf634b03455da8244327156474153bed082a40d5132d87b11a127d4b0d61"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/EuphoriaPatchesLicense.txt"
-hash = "0074d7c01137f85eff0de6622c19c42a7a775d2c3f608ec211a6237fc8b9f9c5"
+hash = "0b0087e74d966287068dd79c00f0db01e6d29d5346252980d2d6b421427a0704"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/InformationEuphoriaPatches.md"
@@ -1666,7 +1466,7 @@ hash = "dd2e57c3431f3e6c6e0c29b8d8c05996ba4c34b84390a70f94f012c67ecd8a1d"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/Made for Complementary Shaders r5.6.1.txt"
-hash = "8d229e96eba7326bad3b95cde6ae6a2776d0754c4814eab70b697d04a52faa4d"
+hash = "6068fbe2d3c3370c08dd97a1c7bfaf65d056f66656429a32bc378fc269056465"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/addedMods.md"
@@ -1674,7 +1474,7 @@ hash = "18982d6d24bbbb4983f0dd39ea087563e3a6fb789c88fdc022f77b15a378b05a"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/block.properties"
-hash = "56336938928280028c38da908ea8addc4a320a61a7a6082e6cf27c489b6c7c92"
+hash = "f8957a4f46c6e0ad9012bed141c42fa4bd8bfe1af853b401dd6536405ef448b9"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/colorwheel.properties"
@@ -1682,15 +1482,15 @@ hash = "155d78d58942830a1a2a2c07f4a67697ebd494be0f188ac07bdcf10367583f53"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/dimension.properties"
-hash = "e1431e091ddd0b2b7615be3ba3464e9d087c9fe8660f90afe5cdf58f7efef8dc"
+hash = "56b66c55e4b5e5f13b32bf0740a0d9716d66c8e33bca3f55b2cd9e7b6c9d52b6"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/entity.properties"
-hash = "dbc79336a6460ce8455ed941af211b3309898e774243426140e031d531da488d"
+hash = "09fdc36a3dfabc152a51d3953dc84635080c1f81d53f8537f86e54a1d5a134f6"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/item.properties"
-hash = "40d15705b17108c12564695fe542396cc830211cb7933fbd137f26fcafcdde99"
+hash = "31df6871ae6c232b57491e9e42510925c593c789342edee3ef3daf09d3892abe"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/lang/en_US.lang"
@@ -2802,7 +2602,7 @@ hash = "bda2002c002ece65bbeb48aa9ee771ca17df1b4c43659c7d825dbe27c1f58659"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/shaders.properties"
-hash = "c8986177fdb1b485421b54632b043c2ee37d74643f0e75172dbd3fc6b035c2e1"
+hash = "e3c0e1c6fa4fa0507778e834b99dfbb4f91a9b1f1fa387d4e67cd9a92d65fa2f"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8/shaders/world-1/clrwl_gbuffers.fsh"
@@ -3702,11 +3502,11 @@ hash = "1c25b2b917ff6d0a511cf2edd8992e0bc66c950c401020f1b0362646bb3e2952"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY.txt"
-hash = "dcd67352126aadf7f658d01fea3f1d9154a788599c25864d4613345c5cb55eed"
+hash = "94775290767252e9c2ca3d6b5c8b09eaef0945c46bef299300c8535cda014c1d"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/ComplementaryLicense.txt"
-hash = "1e1f730abd9c25ad4d0ba301453d37547d17102a3cfc628de794d5b08e278a20"
+hash = "02057f46b85dc4ec7684efcb5e140c429f2652abdc5e95f3c198e603d922f629"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/Credits.txt"
@@ -3714,7 +3514,7 @@ hash = "ba03bf634b03455da8244327156474153bed082a40d5132d87b11a127d4b0d61"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/EuphoriaPatchesLicense.txt"
-hash = "0074d7c01137f85eff0de6622c19c42a7a775d2c3f608ec211a6237fc8b9f9c5"
+hash = "0b0087e74d966287068dd79c00f0db01e6d29d5346252980d2d6b421427a0704"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/InformationEuphoriaPatches.md"
@@ -3722,7 +3522,7 @@ hash = "dd2e57c3431f3e6c6e0c29b8d8c05996ba4c34b84390a70f94f012c67ecd8a1d"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/Made for Complementary Shaders r5.5.1.txt"
-hash = "910e498445f2a7e68aea81c3ad9695743d442810c81caf9faf97f56e8398b525"
+hash = "7047d7072870c78b56236e05dd2c6dcabcfd9c7c898035d063609232b11943b6"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/pack.png"
@@ -3730,19 +3530,19 @@ hash = "e6bea12e30c993b3195c4be5991dc395d3105a5b248204596f38b14b2ee0e0e7"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/block.properties"
-hash = "a9cc1b677d87a903eb4413f0ecf4370e1b690a921a4d5996edf6032cadd81a55"
+hash = "4c0e25698dc41a1f2da5a967b8cbd6793d15542dc8115fb8187c7f20a4e16ecc"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/dimension.properties"
-hash = "737795840fb5d9c5e97629ed9a784b930468429e3ae76a62fb781d2e736b3753"
+hash = "7cb0b00fcb9c6a368503a4c113eb5240789c7bbcd9b1c8c4f964c6fde9389459"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/entity.properties"
-hash = "a15c91e2ddfae7aa932f7ab37d51a75eb9009fc0eaabad9a0a1b909525737c1e"
+hash = "2814d0b9ca8e3a7eb261e45ad51fa75baeb22426bb914a974c60492330ce172c"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/item.properties"
-hash = "e2af735e89833fa36f089844639f94ec478be7264c640dac35f8c4b9afa0e01a"
+hash = "6c07a6e92a3e13d84b3d1750128e3914d6d428700001790bea0e9fbece27cf44"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/en_US.lang"
@@ -4750,7 +4550,7 @@ hash = "f9840fb127a81f8e3d371b30d2ec04856c90de1d7ebbdcf0c833d788698f5a04"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/shaders.properties"
-hash = "9dac19a0df1b5bf8eecaf726a8475773eb9e725956d477be3f395e75921cbdb9"
+hash = "96917e09db9eece880e8c0b9b538e8c8a5871944bdc079b50cbc5da252880a4e"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite.fsh"
@@ -5554,11 +5354,11 @@ hash = "3744c6b9bec6975dfb9c8281eca4f87493dd8d2162b3fb567193f3fd7c7dd04b"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD.txt"
-hash = "99d6357ae157a2094d27b0de3e581163fb52021fecd557fb0babc70e28ccfe1d"
+hash = "1cd1367d5c3d994e544474f35f9c28591b376bcf02f7acd8062d126924958a96"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/ComplementaryLicense.txt"
-hash = "1e1f730abd9c25ad4d0ba301453d37547d17102a3cfc628de794d5b08e278a20"
+hash = "02057f46b85dc4ec7684efcb5e140c429f2652abdc5e95f3c198e603d922f629"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/Credits.txt"
@@ -5566,7 +5366,7 @@ hash = "ba03bf634b03455da8244327156474153bed082a40d5132d87b11a127d4b0d61"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/EuphoriaPatchesLicense.txt"
-hash = "0074d7c01137f85eff0de6622c19c42a7a775d2c3f608ec211a6237fc8b9f9c5"
+hash = "0b0087e74d966287068dd79c00f0db01e6d29d5346252980d2d6b421427a0704"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/InformationEuphoriaPatches.md"
@@ -5574,7 +5374,7 @@ hash = "dd2e57c3431f3e6c6e0c29b8d8c05996ba4c34b84390a70f94f012c67ecd8a1d"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/Made for Complementary Shaders r5.5.1.txt"
-hash = "910e498445f2a7e68aea81c3ad9695743d442810c81caf9faf97f56e8398b525"
+hash = "7047d7072870c78b56236e05dd2c6dcabcfd9c7c898035d063609232b11943b6"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/pack.png"
@@ -5582,19 +5382,19 @@ hash = "e6bea12e30c993b3195c4be5991dc395d3105a5b248204596f38b14b2ee0e0e7"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/block.properties"
-hash = "a9cc1b677d87a903eb4413f0ecf4370e1b690a921a4d5996edf6032cadd81a55"
+hash = "4c0e25698dc41a1f2da5a967b8cbd6793d15542dc8115fb8187c7f20a4e16ecc"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/dimension.properties"
-hash = "737795840fb5d9c5e97629ed9a784b930468429e3ae76a62fb781d2e736b3753"
+hash = "7cb0b00fcb9c6a368503a4c113eb5240789c7bbcd9b1c8c4f964c6fde9389459"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/entity.properties"
-hash = "a15c91e2ddfae7aa932f7ab37d51a75eb9009fc0eaabad9a0a1b909525737c1e"
+hash = "2814d0b9ca8e3a7eb261e45ad51fa75baeb22426bb914a974c60492330ce172c"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/item.properties"
-hash = "e2af735e89833fa36f089844639f94ec478be7264c640dac35f8c4b9afa0e01a"
+hash = "6c07a6e92a3e13d84b3d1750128e3914d6d428700001790bea0e9fbece27cf44"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/lang/en_US.lang"
@@ -6602,7 +6402,7 @@ hash = "f9840fb127a81f8e3d371b30d2ec04856c90de1d7ebbdcf0c833d788698f5a04"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/shaders.properties"
-hash = "9dac19a0df1b5bf8eecaf726a8475773eb9e725956d477be3f395e75921cbdb9"
+hash = "96917e09db9eece880e8c0b9b538e8c8a5871944bdc079b50cbc5da252880a4e"
 
 [[files]]
 file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite.fsh"
