@@ -1,0 +1,13 @@
+name = "cobbleverse"
+author = "jesus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6cf98f0fe437cafa7feca11be9261dc67914eae5f58b1160e7fdcbdf71827a42"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

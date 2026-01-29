@@ -1,0 +1,22 @@
+# Archivos grandes de resourcepacks
+resourcepacks/*.zip
+
+# Archivos de instancia de Minecraft
+*.jar
+!packwiz.exe
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat
+usercache.json
+usernamecache.json
+
+# Carpetas de mods que no deben subirse
+mods/
+
+# Logs
+logs/
+crash-reports/
+
+# Screenshots
+screenshots/
