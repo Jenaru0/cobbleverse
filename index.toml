@@ -1168,6 +1168,11 @@ file = "mods/moar-concrete-1.3.1.jar"
 hash = "0e6e7b95b55ca13a50233743ba008a5285f4abf4cca7642bda40b27145f4f43f"
 
 [[files]]
+file = "mods/mobsbegone.pw.toml"
+hash = "b7fef48afda15e5572daa3c37cad01df57c1d37bfa62890a185564d077e06e62"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "756e9021d46a85cc4a8f89e9f71c0ac6031e8e40b41004fd2915bf2cbe64cd99"
 metafile = true
