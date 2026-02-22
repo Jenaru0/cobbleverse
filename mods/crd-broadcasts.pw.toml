@@ -1,0 +1,17 @@
+filename = 'crd_broadcasts-fabric-1.4.1+1.21.1.jar'
+name = 'CRD Broadcasts'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.1+1.21.1'
+
+[download]
+hash = 'c19fe1f1fef8cd600a1245243ba3f2a1cdaa4e3184f02e291c30c2e02b8d68058e495474dbb95982ea49b78bd2fd0510b361172bdbd1118961e0a99797146053'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TmNAjS6y/versions/H2YvwYxI/crd_broadcasts-fabric-1.4.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'TmNAjS6y'
+version = 'H2YvwYxI'

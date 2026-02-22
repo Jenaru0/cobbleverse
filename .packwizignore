@@ -1,0 +1,16 @@
+# Don't include packwiz binary in the modpack
+packwiz.exe
+
+# Git files
+.git
+.gitignore
+.gitattributes
+.packwizignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

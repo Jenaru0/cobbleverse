@@ -1,0 +1,17 @@
+filename = 'cobble-caf-forms-4.0.3.jar'
+name = 'Cobblemon cafe'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.0.3'
+
+[download]
+hash = '141a856b6b805e5966472d948cfa86c6132d6b93a5b4f0290978e14f0ead9d5890201b12ffe8ffb7a6daa6b2db97393bc2d4124cae3ba42306eb092e38c68ba4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/469QXqgC/versions/4XhFwNeW/cobble-caf-forms-4.0.3.jar'
+
+[update.modrinth]
+mod-id = '469QXqgC'
+version = '4XhFwNeW'

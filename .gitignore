@@ -1,0 +1,18 @@
+# packwiz executable
+packwiz.exe
+
+# Downloaded mod JARs (packwiz handles these via .pw.toml)
+# Keep only .pw.toml metadata and manually-added JARs tracked
+# mods/*.jar  <-- uncommented if you don't want JARs in git
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# packwiz exports
+*.mrpack
+*.zip
