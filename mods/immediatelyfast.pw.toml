@@ -1,6 +1,6 @@
 filename = 'ImmediatelyFast-Fabric-1.6.10+1.21.1.jar'
 name = 'ImmediatelyFast'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

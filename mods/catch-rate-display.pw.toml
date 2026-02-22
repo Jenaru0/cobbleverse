@@ -1,6 +1,6 @@
 filename = 'catchrate-display-fabric-2.5.9.jar'
 name = 'Cobblemon Catch Rate Display'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1,6 +1,6 @@
 filename = 'pastureLoot-1.0.5+1.21.1.jar'
 name = 'Cobblemon Pasture Loot'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

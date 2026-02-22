@@ -1,6 +1,6 @@
 filename = 'soundsbegone-1.3.5.jar'
 name = 'Sounds Be Gone!'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

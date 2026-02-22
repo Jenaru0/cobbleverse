@@ -1,6 +1,6 @@
 filename = 'tooltipfix-1.1.1-1.20.jar'
 name = 'ToolTipFix'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.20',

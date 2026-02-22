@@ -1,6 +1,6 @@
 filename = 'cobblemon-additions-4.1.6.jar'
 name = 'Cobblemon additions'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

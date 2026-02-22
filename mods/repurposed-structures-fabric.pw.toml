@@ -1,6 +1,6 @@
 filename = 'repurposed_structures-7.5.17+1.21.1-fabric.jar'
 name = 'Repurposed Structures - Fabric'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

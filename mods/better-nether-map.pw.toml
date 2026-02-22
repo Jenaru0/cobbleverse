@@ -1,6 +1,6 @@
 filename = 'nethermap-4.0.0-1.21.1.jar'
 name = 'Better Nether Map'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

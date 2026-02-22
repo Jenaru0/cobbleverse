@@ -1,6 +1,6 @@
 filename = 'rctmod-fabric-1.21.1-0.17.6-beta.jar'
 name = 'Radical Cobblemon Trainers'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

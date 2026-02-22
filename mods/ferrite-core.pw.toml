@@ -1,6 +1,6 @@
 filename = 'ferritecore-7.0.3-fabric.jar'
 name = 'FerriteCore'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

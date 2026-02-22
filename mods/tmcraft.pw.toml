@@ -1,6 +1,6 @@
 filename = 'tmcraft-1.4.18+1.7.3.jar'
 name = 'TMCraft'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

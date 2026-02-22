@@ -1,6 +1,6 @@
 filename = 'betterbeds-fabric-1.4.0.jar'
 name = 'Better Beds'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1', '1.21.2', '1.21.2', '1.21.3', '1.21.3' ]
 x-prismlauncher-release-type = 'release'

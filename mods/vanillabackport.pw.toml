@@ -1,6 +1,6 @@
 filename = 'VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar'
 name = 'Vanilla Backport'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

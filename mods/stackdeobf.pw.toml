@@ -1,6 +1,6 @@
 filename = 'StackDeobfuscatorFabric-1.4.3+08e71cc.jar'
 name = 'StackDeobfuscator'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.14',

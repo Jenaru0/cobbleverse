@@ -1,6 +1,6 @@
 filename = 'sophisticatedstorage-1.21.1-1.3.7.9.139.jar'
 name = 'Sophisticated Storage (Unofficial Fabric port)'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

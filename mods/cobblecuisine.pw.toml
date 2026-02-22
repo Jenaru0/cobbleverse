@@ -1,6 +1,6 @@
 filename = 'cobblecuisine-2.0.1-1.7.rc1.jar'
 name = 'CobbleCuisine'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'alpha'

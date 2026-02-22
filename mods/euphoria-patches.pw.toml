@@ -1,6 +1,6 @@
 filename = 'EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar'
 name = 'Euphoria Patches'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.14',

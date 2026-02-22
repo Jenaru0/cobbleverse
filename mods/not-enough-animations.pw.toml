@@ -1,6 +1,6 @@
 filename = 'notenoughanimations-fabric-1.11.2-mc1.21.1.jar'
 name = 'Not Enough Animations'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

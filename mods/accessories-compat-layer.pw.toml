@@ -1,6 +1,6 @@
 filename = 'accessories_compat_layer-fabric-0.1.12+1.21.1.jar'
 name = 'Accessories Compatibility Layer'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

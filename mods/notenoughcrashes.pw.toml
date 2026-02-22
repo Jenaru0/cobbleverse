@@ -1,6 +1,6 @@
 filename = 'notenoughcrashes-fabric-4.4.9+1.21.1.jar'
 name = 'Not Enough Crashes'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

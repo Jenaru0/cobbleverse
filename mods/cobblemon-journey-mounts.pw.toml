@@ -1,6 +1,6 @@
 filename = 'zz DO NOT ENABLE zz [Cobblemon Journey Mounts - Credits Only].jar.jar'
 name = 'Cobblemon Journey Mounts'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

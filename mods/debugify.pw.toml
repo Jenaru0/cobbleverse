@@ -1,6 +1,6 @@
 filename = 'Debugify-1.21.1+1.0.jar'
 name = 'Debugify'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

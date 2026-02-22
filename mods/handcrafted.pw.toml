@@ -1,6 +1,6 @@
 filename = 'handcrafted-fabric-1.21.1-4.0.3.jar'
 name = 'Handcrafted'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

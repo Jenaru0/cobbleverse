@@ -1,6 +1,6 @@
 filename = 'particlerain-4.0.0-beta.5+1.21.1-fabric.jar'
 name = 'Particle Rain'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

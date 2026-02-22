@@ -1,6 +1,6 @@
 filename = 'moreculling-fabric-1.21.1-1.0.6.jar'
 name = 'More Culling'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

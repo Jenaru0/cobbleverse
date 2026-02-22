@@ -1,6 +1,6 @@
 filename = 'libjf-3.17.3.jar'
 name = 'LibJF'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

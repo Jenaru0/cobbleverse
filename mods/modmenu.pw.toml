@@ -1,6 +1,6 @@
 filename = 'modmenu-11.0.3.jar'
 name = 'Mod Menu'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

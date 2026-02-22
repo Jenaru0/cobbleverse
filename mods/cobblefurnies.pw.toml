@@ -1,6 +1,6 @@
 filename = 'CobbleFurnies-fabric-1.0.jar'
 name = 'CobbleFurnies'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

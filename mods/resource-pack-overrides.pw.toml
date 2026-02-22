@@ -1,6 +1,6 @@
 filename = 'ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar'
 name = 'Resource Pack Overrides'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

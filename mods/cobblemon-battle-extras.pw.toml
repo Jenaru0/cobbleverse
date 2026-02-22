@@ -1,6 +1,6 @@
 filename = 'cobblemon-battle-extras-fabric-1.7.27.jar'
 name = 'Cobblemon Battle Extras'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

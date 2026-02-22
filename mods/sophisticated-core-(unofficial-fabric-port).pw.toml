@@ -1,6 +1,6 @@
 filename = 'sophisticatedcore-1.21.1-1.2.9.21.168.jar'
 name = 'Sophisticated Core (Unofficial Fabric port)'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

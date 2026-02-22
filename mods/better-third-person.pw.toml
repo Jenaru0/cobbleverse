@@ -1,6 +1,6 @@
 filename = 'BetterThirdPerson-Fabric-1.21-1.9.0.jar'
 name = 'Better Third Person'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

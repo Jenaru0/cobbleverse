@@ -1,6 +1,6 @@
 filename = 'advancementdisable-fabric-1.0.1+1.21.jar'
 name = 'AdvancementDisable'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.21',
