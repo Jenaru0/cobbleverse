@@ -9,7 +9,6 @@ x-prismlauncher-version-number = '1.7.2'
 [download]
 hash = 'cced2b3ef034e3f57c3e4271b64f5fd776ac7b56329b400018d7ca9b99c5e44c11a76acf2283c2bb3bb1eef40a9be9fb9eb360de0f7e48842689c69fa107005b'
 hash-format = 'sha512'
-mode = 'url'
 url = 'https://cdn.modrinth.com/data/Vn5WCYr6/versions/RKZyNI1R/cobblemon-journey-mounts-1.7.2.jar'
 
 [update.modrinth]

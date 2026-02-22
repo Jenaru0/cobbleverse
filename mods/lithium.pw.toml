@@ -9,7 +9,6 @@ x-prismlauncher-version-number = 'mc1.21.1-0.15.2-fabric'
 [download]
 hash = '0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e'
 hash-format = 'sha512'
-mode = 'url'
 url = 'https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar'
 
 [update.modrinth]

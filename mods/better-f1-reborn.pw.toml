@@ -28,7 +28,6 @@ x-prismlauncher-version-number = '1.1'
 [download]
 hash = 'cecf3f8740db3f418357effc230c81f21d0521c4103041ad56fc673b998db2a115558c6ea0c8a86cab2624f47b2419338b9e2d3b0a9c19e6eb07674b3f7773b5'
 hash-format = 'sha512'
-mode = 'url'
 url = 'https://cdn.modrinth.com/data/2JIeCmxb/versions/S81P3LsG/BetterF1-Fabric-1.1%2B1.21.7.jar'
 
 [update.modrinth]

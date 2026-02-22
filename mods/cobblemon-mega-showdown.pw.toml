@@ -9,7 +9,6 @@ x-prismlauncher-version-number = '1.6.10+1.7.3+1.21.1'
 [download]
 hash = 'ce75e4351217b5a1e7202f3d70ecf909ca2ac8ebda90618c43149d798bc81f5fa13b2c04be409db502cdd13278575393619432db0ff8a566ffd0397ad61b3f9b'
 hash-format = 'sha512'
-mode = 'url'
 url = 'https://cdn.modrinth.com/data/SszvX85I/versions/GCGtiDQy/mega_showdown-fabric-1.6.10%2B1.7.3%2B1.21.1.jar'
 
 [update.modrinth]

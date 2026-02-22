@@ -9,7 +9,6 @@ x-prismlauncher-version-number = '1.0.0'
 [download]
 hash = '368c8875680c1b8238e776da0705f55e38fd1d5a5fe300e3c574ae4f72dc14b94084a51960f2fd4c43069702c82ee9abe82d9dd3fa87998107023a2bd5d2566c'
 hash-format = 'sha512'
-mode = 'url'
 url = 'https://cdn.modrinth.com/data/KaygqiY5/versions/vqLdYXOH/raid-den-queue-1.0.0.jar'
 
 [update.modrinth]
